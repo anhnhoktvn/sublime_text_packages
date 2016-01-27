@@ -1,6 +1,11 @@
 {
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	"numix_folder_icons": true,
+	"tabs_small": true,
+	"theme": "Numix Dark.sublime-theme",
+	"word_wrap": true
 }
