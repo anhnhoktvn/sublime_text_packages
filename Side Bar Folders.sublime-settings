@@ -3,6 +3,12 @@
 	[
 		{
 			"path": "/home/tkt21176/www/moodle"
+		},
+		{
+			"path": "/home/tkt21176/www/drupal"
+		},
+		{
+			"path": "/home/tkt21176/test/umm-UMM_10_STABLE"
 		}
 	]
 }

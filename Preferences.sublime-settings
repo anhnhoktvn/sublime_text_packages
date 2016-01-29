@@ -5,6 +5,7 @@
 		"Vintage"
 	],
 	"numix_folder_icons": true,
+	"reveal-on-activate": true,
 	"tabs_small": true,
 	"theme": "Numix Dark.sublime-theme",
 	"word_wrap": true
