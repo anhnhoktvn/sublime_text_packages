@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<snippet>
+	<content><![CDATA[
+$1
+}]$2]></content>
+	<scope>source.sublimekeymap</scope>
+	<tabTrigger>args</tabTrigger>
+</snippet>
+]]></content>
+	<scope>text.xml</scope>
+	<tabTrigger>snipp</tabTrigger>
+</snippet>

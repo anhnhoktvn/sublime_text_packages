@@ -1,0 +1,28 @@
+<snippet>
+	<content><![CDATA[
+<ion-view view-title="${1:Log In}">
+    <ion-content>
+        <div class="list">
+            <label class="item item-input">
+                <span class="input-label">Username</span>
+                <input type="text" ng-model="user.username">
+            </label>
+            <label class="item item-input">
+                <span class="input-label">Password</span>
+                <input type="password" ng-model="user.password">
+            </label>
+        </div>
+        <div class="padding">
+            <button class="button button-block button-positive" ng-click="${2:login(user)}">
+                ${1:Log In}
+            </button>
+            ${3:<p class="text-center">
+                <a href="#/forgot-password">Forgot password</a>
+            </p>}
+        </div>
+    </ion-content>
+</ion-view>
+]]></content>
+	<scope>text.html</scope>
+	<tabTrigger>ion-login</tabTrigger>
+</snippet>
