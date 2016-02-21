@@ -2,11 +2,15 @@
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"ignored_packages":
 	[
+		"Markdown",
 		"Vintage"
 	],
 	"numix_folder_icons": true,
 	"reveal-on-activate": true,
 	"tabs_small": true,
 	"theme": "Numix Dark.sublime-theme",
-	"word_wrap": true
+	"word_wrap": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true
+
 }

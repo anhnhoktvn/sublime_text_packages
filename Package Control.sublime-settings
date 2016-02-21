@@ -21,8 +21,11 @@
 		"Glue",
 		"HTML-CSS-JS Prettify",
 		"HTML5",
+		"JavaScript & NodeJS Snippets",
+		"JSX",
 		"Markdown Extended",
 		"Markdown Preview",
+		"MarkdownEditing",
 		"Monokai Extended",
 		"Numix Theme",
 		"Origami",
@@ -38,6 +41,7 @@
 		"SublimeLinter-php",
 		"SyncedSideBar",
 		"Terminal",
+		"tern_for_sublime",
 		"Todo.txt Syntax",
 		"Vintageous"
 	]
