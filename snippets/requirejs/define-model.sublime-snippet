@@ -1,0 +1,21 @@
+<snippet>
+  <content><![CDATA[
+define(['jquery', 'backbone', 'underscore'${1:, '$2'}],
+  function(\$, Backbone, _${3:, $4}) {
+    "use strict";
+    var ${5:MyModel} = Backbone.Model.extend({
+      ${6:defaults: {
+        $7
+      \},}
+      initialize: function() {
+        $8
+      }$9
+    });
+      return ${5:MyModel};
+  });$10
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>define-model</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>
