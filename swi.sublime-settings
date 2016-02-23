@@ -1,0 +1,16 @@
+{
+	"breaks":
+	{
+		"/home/tkt21176/www/test/backbone/7/js/app.js":
+		{
+			"5":
+			{
+				"status": "disabled"
+			}
+		}
+	},
+	"chrome_path":
+	{
+		"linux": "/usr/bin/google-chrome-stable"
+	}
+}
