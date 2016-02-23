@@ -3,14 +3,14 @@
 	"ignored_packages":
 	[
 		"Markdown",
-		"Vintage"
+		"Vintage",
+		"Web Inspector"
 	],
 	"numix_folder_icons": true,
 	"reveal-on-activate": true,
+	"tab_size": 2,
 	"tabs_small": true,
 	"theme": "Numix Dark.sublime-theme",
-	"word_wrap": true,
-	"tab_size": 2,
-	"translate_tabs_to_spaces": true
-
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true
 }
